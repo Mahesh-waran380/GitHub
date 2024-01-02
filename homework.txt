@@ -1,2 +1,6 @@
 doing all the homeworks with concentration 
+<<<<<<< HEAD
 easy to understand 
+=======
+understanding all concepts easily
+>>>>>>> a2e6739 (homework.txt file modified)
